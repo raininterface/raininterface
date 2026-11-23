@@ -1,4 +1,4 @@
-# luminescencedev
+# rain
 
 > I design and build interfaces I’d want to use.  
 > _From pixels to backends — turning ideas into full-stack apps built in silence._  
@@ -7,11 +7,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none"> 
     <td valign="top" style="border: none">
-      <img width="400" src="https://raw.githubusercontent.com/luminescencedev/luminescencedev/main/github-metrics.svg" alt="GitHub metrics"><br>
-      <img width="400" src="https://raw.githubusercontent.com/luminescencedev/luminescencedev/main/metrics.plugin.isocalendar.svg" alt="Isometric activity calendar">
+      <img width="400" src="https://raw.githubusercontent.com/raininterface/raininterface/main/github-metrics.svg" alt="GitHub metrics"><br>
+      <img width="400" src="https://raw.githubusercontent.com/raininterface/raininterface/main/metrics.plugin.isocalendar.svg" alt="Isometric activity calendar">
     </td>
     <td valign="top" style="border: none">
-      <img width="400" src="https://raw.githubusercontent.com/luminescencedev/luminescencedev/main/kuroro.png" alt="kuroro">
+      <img width="400" src="https://raw.githubusercontent.com/raininterface/raininterface/main/kuroro.png" alt="kuroro">
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
 
   <!-- Profile views -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=luminescencedev&color=blueviolet&style=flat-square" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=raininterface&color=blueviolet&style=flat-square" alt="Profile views">
   </p>
 
 </div>
